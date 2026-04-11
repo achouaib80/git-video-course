@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master branch file one content
+=======
+Merge conflicts demo
+>>>>>>> feat/merge-conflicts
