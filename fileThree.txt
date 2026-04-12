@@ -1,1 +1,1 @@
-File three created to show merge commit
+Rebase demo commit 1
