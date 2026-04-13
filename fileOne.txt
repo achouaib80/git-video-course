@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Rebase conflicts because of main changes.
-=======
-Rebase conflicts demo commit 1
->>>>>>> 9076b12 (Rebase conflicts commit 1)
+Changes in main by another person
