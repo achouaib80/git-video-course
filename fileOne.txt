@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes in main by another person
+=======
+Pull request changes 1
+>>>>>>> 0857119 (PR with conflicts commit 1)
