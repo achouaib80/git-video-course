@@ -1,2 +1,1 @@
-Bug fix
-Bug fix 2
+Squash commit 3
