@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Pull request conflicts
-=======
-Changes from the teammate
->>>>>>> master
+Squash file 2 commit 3
